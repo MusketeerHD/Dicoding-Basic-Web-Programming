@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Dicoding-Basic-Web-Programming-) Biodata[C 👋</h1>
+<h1 align="center">Welcome to Dicoding Basic Web Programming Biodata 👋</h1>
 <p>
   <a href="https://github.com/MusketeerHD/Dicoding-Basic-Web-Programming-Biodata/blob/main/README.md" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
@@ -16,6 +16,18 @@
 ### 🏠 [Homepage](https://github.com/MusketeerHD/Dicoding-Basic-Web-Programming-Biodata)
 
 ### ✨ [Demo](https://github.com/MusketeerHD/Dicoding-Basic-Web-Programming-Biodata/blob/main/README.md)
+
+## Features :
+
+* Terdapat elemen Header, Footer, Main, Article, dan Aside.
+* Menerapkan Element `Aside` didalam identitas diri (biodata diri)
+* Menyusun layout dengan menggunakan teknik float atau flexbox.
+
+## Technology
+
+* HTML
+* CSS
+* javaScript
 
 ## Author
 
@@ -36,4 +48,3 @@ Copyright © 2023 [Musketeer](https://github.com/MusketeerHD).<br />
 This project is [MIT](https://github.com/MusketeerHD/Dicoding-Basic-Web-Programming-Biodata/blob/main/LICENSE) licensed.
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
