@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Dicoding Basic Web Programming Biodata 👋</h1>
+<h1 align="center">Welcome to Dicoding Basic Web Programming 👋</h1>
 <p>
   <a href="https://github.com/MusketeerHD/Dicoding-Basic-Web-Programming-Biodata/blob/main/README.md" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
