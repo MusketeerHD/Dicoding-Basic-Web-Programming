@@ -20,6 +20,8 @@
 ## Features :
 
 * Terdapat elemen Header, Footer, Main, Article, dan Aside.
+* Masing-masing elemen wajib berisi konten yang peruntukkannya sesuai dengan elemen tersebut (menerapkan konsep semantic HTML dalam menyusun struktur website)
+Sebagai contoh: Header berisi judul dan navigation.
 * Menerapkan Element `Aside` didalam identitas diri (biodata diri)
 * Menyusun layout dengan menggunakan teknik float atau flexbox.
 
@@ -28,6 +30,14 @@
 * HTML
 * CSS
 * javaScript
+
+## Instalasi
+
+1. Clone repositori ini dengan perintah 
+```sh
+git clone https://github.com/MusketeerHD/Dicoding-Basic-Web-Programming-Biodata.git
+```
+2. Buka file `index.html` pada browser
 
 ## Author
 
