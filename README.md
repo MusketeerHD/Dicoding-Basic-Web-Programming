@@ -46,7 +46,7 @@ git clone https://github.com/MusketeerHD/Dicoding-Basic-Web-Programming-Biodata.
 * Website: https://github.com/MusketeerHD
 * Twitter: [@MusketeerHD](https://twitter.com/MusketeerHD)
 * Github: [@MusketeerHD](https://github.com/MusketeerHD)
-* LinkedIn: [@ahmad-azfa-dzulfaqar](https://linkedin.com/in/ahmad-azfa-dzulfaqar)
+* LinkedIn: [ahmad azfa dzulfaqar](https://linkedin.com/in/ahmad-azfa-dzulfaqar)
 
 ## Show your support
 
