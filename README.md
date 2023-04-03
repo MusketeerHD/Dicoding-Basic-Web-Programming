@@ -11,6 +11,8 @@
   </a>
 </p>
 
+![image](https://user-images.githubusercontent.com/121343844/229515329-c92a7440-5fbc-4f2a-9782-552abb7a5f93.png)
+
 > Projek ini adalah tugas akhir dari kelas Belajar Dasar Pemrograman Web di Dicoding. Projek ini bertujuan untuk membuat sebuah halaman biodata sederhana menggunakan HTML, CSS, dan JavaScript.
 
 ### 🏠 [Homepage](https://github.com/MusketeerHD/Dicoding-Basic-Web-Programming-Biodata)
